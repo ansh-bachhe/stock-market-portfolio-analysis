@@ -38,13 +38,13 @@ The analysis helps stakeholders quickly understand market trends, portfolio allo
 ## 📂 Project Structure & Files (Click to Open)
 
 - 📊 **Power BI Dashboard**  
-  👉 [Open Power BI File](PowerBI/Stock_Market_Analysis.pbix)
+  👉 [Open Power BI File](Power_BI_Dashboard/Stock_Market_Analysis.pbix)
 
 - 🗄 **SQL Queries**  
-  👉 [View SQL File](SQL/Stock_Market_Analysis.sql)
+  👉 [View SQL File](SQL_Queries/Stock_Market_Analysis.sql)
 
 - 📽 **Final Presentation**  
-  👉 [View Project Presentation](Presentation/Stock_Market_Analysis.pptx)
+  👉 [View Project Presentation](Final_Presentation/Stock_Market_Analysis.pptx)
 
 ---
 
